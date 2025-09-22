@@ -66,6 +66,4 @@ ________________________________________
 
 •	🏢 Executives – Gain a high-level overview of the company’s sales and product performance trends.
 ________________________________________
-👉 This project demonstrates strong skills in data modeling, visualization, KPI tracking, and storytelling through data in Power BI.Screenshots / Demos Show what the dashboard looks like.
-Example: ![Alt text] [Cyclean Dashboard](images/cyclean_dashboard.png)
 
