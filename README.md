@@ -67,4 +67,4 @@ ________________________________________
 •	🏢 Executives – Gain a high-level overview of the company’s sales and product performance trends.
 ________________________________________
 👉 This project demonstrates strong skills in data modeling, visualization, KPI tracking, and storytelling through data in Power BI.Screenshots / Demos Show what the dashboard looks like.
-Example: 
+Example: https://github.com/patelaashirwad3-droid/Power-BI/blob/main/Screenshot%202025-08-01%20184627.png
